@@ -1,2 +1,5 @@
 # es
-ebola safe backend springboot application
+jdbc database implementation in:
+- springboot
+- spring
+- java
