@@ -123,11 +123,11 @@ Sample project
 --------------
 
 A sample project illustrating these three methods of setting up a database connection on Heroku can be found at:
-[https://github.com/heroku/devcenter-java-database](https://github.com/heroku/devcenter-java-database)
+https://github.com/alonzo-olum/es
 
 To try it out first clone the git repository:
 
-    git clone git://github.com/heroku/devcenter-java-database.git
+    git clone https://github.com/alonzo-olum/es.git
 
 In the `devcenter-java-database` directory run the Maven build for the project:
 
@@ -206,7 +206,3 @@ Now execute any of the examples on Heroku:
     Running sh devcenter-java-database-plain-jdbc/target/bin/main attached to terminal... up, run.1
     Read from DB: 2011-11-29 20:36:25.001468
 
-Further Learning
-----------------
-
-[Learn about the shared and dedicated database options](http://devcenter.heroku.com/articles/database)
